@@ -10,7 +10,5 @@
 
 * Run `python traffic.py gtsrb` to test model with gtsrb dataset
 
-If you’d like to practice with a bigger data set you should change `NUM_CATEGORIES`
-
 
 
